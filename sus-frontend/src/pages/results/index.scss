@@ -1,0 +1,27 @@
+.global-score {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.global-average {
+    display:flex;
+    padding: 1em;
+    font-weight: bold;
+}
+
+.score-time {
+    display: flex;
+}
+
+
+.score-rating {
+    display: flex;
+    padding-left: 1em;
+}
+
+.score-wrapper {
+    padding: 1em;
+    display: flex;
+    border: 1px solid black;
+}
